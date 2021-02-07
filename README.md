@@ -19,4 +19,4 @@ location / {
 `http://www.host.com`
 
 # 全局方法
-详情参考文件
+详情参考文件：**/app/common/***
