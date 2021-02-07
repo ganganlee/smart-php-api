@@ -19,7 +19,8 @@ location / {
 `http://www.host.com`
 
 # 目录结构
-![avatar](https://p.pstatp.com/origin/138cf00007ac64585146b)
+![image](https://p.pstatp.com/origin/138cf00007ac64585146b)
+https://p.pstatp.com/origin/138cf00007ac64585146b
 
 # 全局方法
 详情参考文件：**/app/common/***
